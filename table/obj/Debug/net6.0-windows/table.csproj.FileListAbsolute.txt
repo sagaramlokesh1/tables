@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\table\table\bin\Debug\net6.0-windows\table.exe
+C:\Users\Hp\source\repos\table\table\bin\Debug\net6.0-windows\table.deps.json
+C:\Users\Hp\source\repos\table\table\bin\Debug\net6.0-windows\table.runtimeconfig.json
+C:\Users\Hp\source\repos\table\table\bin\Debug\net6.0-windows\table.dll
+C:\Users\Hp\source\repos\table\table\bin\Debug\net6.0-windows\table.pdb
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.Form1.resources
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.AssemblyInfo.cs
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.dll
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\refint\table.dll
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.pdb
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\table.genruntimeconfig.cache
+C:\Users\Hp\source\repos\table\table\obj\Debug\net6.0-windows\ref\table.dll
